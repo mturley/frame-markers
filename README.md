@@ -9,5 +9,7 @@ usage
     ./markers.py <framerate> <marker duration in frames> <minutes>
 
 ex.
+
     ./markers.py 29.97 56 5
+
 will generate 5 minutes of markers 56-frames long each, at 29.97 frames per second.
